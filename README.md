@@ -1,2 +1,2 @@
-# Machine-learning
-Projet ter fraude a la carte bancaire
+# TER
+Projet de fin d'etude : Creations d'une application shiny pour la detection de fraude
